@@ -128,7 +128,7 @@ If you prefer installing the player using a Debian package, you can download the
 
 [Download Linux Music Player (.deb)](https://github.com/ankur-saxena-88/linux-music-player/releases/tag/v1.1)
 
-Example installation:
+**Installation**
 
 ```
 sudo dpkg -i linux-music-player_1.1.deb
