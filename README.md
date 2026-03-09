@@ -103,7 +103,7 @@ pip3 install PyQt6 python-vlc
 Clone the repository:
 
 ```
-git clone https://github.com/ankur-saxena-88/linux-music-player/tree/main
+git clone https://github.com/ankur-saxena-88/linux-music-player.git
 ```
 
 Go to the project directory:
