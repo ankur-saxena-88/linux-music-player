@@ -122,13 +122,11 @@ python3 linux_mplayer_v1o1.py
 
 ## Download Prebuilt Installer (.deb)
 
-If you prefer installing the player using a Debian package, you can download the installer below.
+If you prefer installing the player using a Debian package, you can download the installer from the project's release page.
 
 **Download the latest `.deb` package**
 
-```
-Download Linux Music Player .deb
-```
+[Download Linux Music Player (.deb)](https://github.com/ankur-saxena-88/linux-music-player/releases/tag/v1.1)
 
 Example installation:
 
